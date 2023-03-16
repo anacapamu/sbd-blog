@@ -1,12 +1,10 @@
 ---
 title: "Simulating Moon Phases and Eclipses"
+omit_header_text: true
 date: 2021-04-02T00:00:00-00:00
 tags: [Activities, Interactive, Labs]
 featured_image: "/images/cover-moon.jpg"
-draft: true
 ---
-
-Image by NASA via [Unsplash](https://unsplash.com/photos/V4ZksNimxLk).
 
 **Overview:** This is a simple activity that can help students better understand how eclipses occur. The materials are the same from the Reasons for the Seasons Lab, but the focus is on how the students are angled when rotating the "moon" and how that may affect our perspective of the moon from Earth.
 
@@ -30,6 +28,8 @@ Image by NASA via [Unsplash](https://unsplash.com/photos/V4ZksNimxLk).
 
 – [Moon Phases Demonstration | Video](https://www.youtube.com/watch?v=wz01pTvuMa0)
 
+{{< figure src="/images/simulate-new-moon.png" alt="simulating new moon" >}}
+
 **Suggested Pacing: (1 day)**
 
 Day 1 - model activity | prior to lunar phases and eclipses station labs
@@ -41,3 +41,5 @@ Day 1 - model activity | prior to lunar phases and eclipses station labs
 It is useful to model the two rotations to the students and let them know what to focus on. Students may then work in pairs or small groups to observe and record what they see on their Lunar Phases worksheets.
 
 **Credits:** NASA and my colleagues
+
+Cover image by NASA via [Unsplash](https://unsplash.com/photos/V4ZksNimxLk).
