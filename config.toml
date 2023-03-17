@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://anacapamu.github.io/sbd-blog/'
 languageCode = 'en-us'
 title = 'Science Breakdowns'
 theme = 'ananke'
+
+googleAnalytics = 'G-ZLERML1YHL'
