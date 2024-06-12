@@ -1,7 +1,7 @@
 ---
 title: "The Egg Cart Challenge | Newton’s Laws | Hands-On Activity"
 omit_header_text: true
-date: 2024-06-11T21:55:28-07:00
+date: 2020-12-31T12:54:28-07:00
 tags: [Activities, GroupWork, Labs, Physics, Projects]
 featured_image: "/images/cover-egg-cart.png"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Reasons for the Seasons Lab"
 omit_header_text: true
-date: 2021-07-27T21:39:20-07:00
+date: 2021-02-27T21:39:20-07:00
 tags: [Activities, Interactive, Labs, Physics]
 featured_image: "/images/cover-seasons.png"
 ---
