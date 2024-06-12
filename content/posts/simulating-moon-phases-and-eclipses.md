@@ -2,7 +2,7 @@
 title: "Simulating Moon Phases and Eclipses"
 omit_header_text: true
 date: 2021-04-02T00:00:00-00:00
-tags: [Activities, Interactive, Labs]
+tags: [Activities, Interactive, Labs, Physics]
 featured_image: "/images/cover-moon.jpg"
 ---
 

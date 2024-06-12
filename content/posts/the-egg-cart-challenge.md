@@ -33,7 +33,9 @@ Less Mess Option: An average egg weighs around 60 grams. You can replicate this 
 **Suggested Pacing: (3 days)**
 
 Day 1 - introduce challenge | brainstorm ideas in groups
+
 Day 2 - build and test designs
+
 Day 3 - test day | discussion questions (if time allows)
 
 **Pacing w/ Teacher Notes:**

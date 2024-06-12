@@ -6,8 +6,6 @@ tags: [DistanceLearning, OnlineLearning, Physics, RemoteLearning, SubPlans, Vide
 featured_image: "/images/cover-friction.png"
 ---
 
-![Image by Don't Memorise via YouTube.](https://sciencebreakdowns.files.wordpress.com/2020/11/screen-shot-2020-11-22-at-9.25.26-am.png?w=1024)
-
 **Overview:** As part of the forces and motion unit, we review different types of friction and how they're applied in real-world contexts. This Bill Nye video goes over a few examples and can be used to introduce or review the concept. The accompanying video questions can be shared digitally, used for classroom discussions, and/or as an emergency sub plan.
 
 **Materials:**
