@@ -3,7 +3,7 @@ title: "Biomimicry Research Project | Human Impact STEM Challenge"
 omit_header_text: true
 date: 2021-03-31T12:05:22-07:00
 tags: [Activities, Bioengineering, DistanceLearning, GroupWork, Interactive, OnlineLearning]
-featured_image: "/images/cover-biomimicry.jpg"
+featured_image: "/images/cover-biomimicry.png"
 ---
 
 **Overview:** In our unit on human impact, we discuss what biomimicry is and how it can be used to create more sustainable and efficient technology. The project allows students to design their own nature-inspired technology and present their ideas to their peers.
