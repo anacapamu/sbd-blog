@@ -30,7 +30,9 @@ Handouts, online access, ~40 envelopes, ~40 fossil sets (can be laminated for re
 
 - [How to Fossilize Yourself | TED Ed Video](https://youtu.be/yDIQzUSezmA)
 
-{{< figure src="/images/pakicetus-fossil.jpg" alt="Pakicetus Fossil and Artist Recreation" caption="Pakicetus Fossil and Artist Recreation" >}}
+{{< figure src="/images/pakicetus-fossil.jpg" alt="Pakicetus Fossil">}} {{< figure src="/images/pakicetusjpg" alt="Pakicetus Artist Recreation">}}
+
+Pakicetus Fossil and Artist Recreation
 
 **Preparation:**
 
