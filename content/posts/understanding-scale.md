@@ -13,7 +13,7 @@ featured_image: "/images/cover-understanding-scale.png"
 (Editor’s Note: As of July 2020, Jeff Bezos had a net worth of 178.2 billion dollars and you would’ve needed to have made around $241,527.23 a day for the past 2,020 years.)
 
 As humans, we can easily visualize ten objects or even a hundred objects. However, it is difficult for us to accurately visualize a few thousand objects, a few million objects, or a few billion objects. This makes it hard to contextualize events in Earth’s history or our solar system’s history, as we have few experiences or examples to refer to when we think about enormous quantities.
-To help students better understand scale, this assignment is a compilation of thought-provoking questions and visuals that seek to make abstract numbers more relatable. This assignment works well prior to teaching astronomy ([Solar System to Scale](/posts/solar-system-to-scale.md)) or evolution ([Geologic Time Period Travel Brochures](/posts/geologic-time-period-travel-brochures.md)).
+To help students better understand scale, this assignment is a compilation of thought-provoking questions and visuals that seek to make abstract numbers more relatable. This assignment works well prior to teaching astronomy ([Solar System to Scale](/posts/solar-system-to-scale)) or evolution ([Geologic Time Period Travel Brochures](/posts/geologic-time-period-travel-brochures)).
 
 **Materials:**
 
