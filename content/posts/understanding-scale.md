@@ -6,8 +6,7 @@ tags: [DistanceLearning, Interactive, OnlineLearning, RemoteLearning, Worksheets
 featured_image: "/images/cover-understanding-scale.png"
 ---
 
-<p style="text-align:center;"><img src="/images/cover-understanding-scale.png" alt="lots of stars in night sky with mountains on the bottom" width="640" height="426">
-Can you guess how many stars are in this image?</p>
+{{< figure src="/images/cover-understanding-scale.png" alt="lots of stars in night sky with mountains on the bottom" caption="Can you guess how many stars are in this image?" >}}
 
 **Overview:** As of February 2021, Jeff Bezos has a net worth of 192 billion dollars. Did you know that if you earned $260,000 a day since Jesus was born (or 2,021 years ago), you would still not have as much money as him? In order to have the same amount of money as him, you would need to have made around $260,102.60 a day for the past 2,021 years!
 
