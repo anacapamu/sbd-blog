@@ -3,7 +3,7 @@ title: "Vanishing: The 6th Mass Extinction Video Notes | Human Impact | Sub Plan
 omit_header_text: true
 date: 2020-06-27T19:59:35-07:00
 tags: [DistanceLearning, OnlineLearning, RemoteLearning, ScienceBreakdowns, SubPlans, Sustainability, Worksheets, Biology, Ecology]
-featured_image: "/images/vanishing.jpg"
+featured_image: "/images/cover-vanishing.jpg"
 ---
 
 **Overview:** When discussing climate change, sustainability, and the impacts of human activities on our environment, one notable area to highlight is the alarming rate of extinctions on our planet and what has caused it.
