@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-07-23T21:24:31-07:00
 tags: [Articles, DistanceLearning, OnlineLearning, RemoteLearning, Worksheets, Ecology]
 featured_image: "/images/cover-worlds-population-booms.jpg"
+show_reading_time: true
 ---
 
 **Overview:** When discussing population dynamics and sustainability, we often wonder about the carrying capacity of our planet. While scientists estimate Earth can sustain 9-10 billion people, students are generally curious about how scientists calculate human impact.

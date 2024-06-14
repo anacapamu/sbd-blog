@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-30T20:18:51-07:00
 tags: [Sustainability, Worksheets]
 featured_image: "/images/cover-cosmetics-story.jpg"
+show_reading_time: true
 ---
 
 **Overview:** Here is an example of human impact on Earth and ourselves, looking specifically at how cosmetics are made and what is in them. My students tend to enjoy it because it's relevant to what they personally use in their daily lives. The student worksheet provided is scaffolded for ESL students.

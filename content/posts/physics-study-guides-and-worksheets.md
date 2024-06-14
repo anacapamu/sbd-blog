@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-06-25T13:24:44-07:00
 tags: [DistanceLearning, OnlineLearning, PracticeProblems, StudyGuides, Worksheets]
 featured_image: "/images/cover-physics-worksheets.png"
+show_reading_time: true
 ---
 
 **Overview:** Here are a couple of physics study guides with practice problems. They include vocabulary and formulas for their specific topics. I usually use these study guides as supplementary materials to review and prepare for quizzes.

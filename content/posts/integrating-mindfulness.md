@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-27T18:10:10-07:00
 tags: [Mindfulness, Wellness]
 featured_image: "/images/cover-mindfulness.png"
+show_reading_time: true
 ---
 
 **Overview:** Talking about mental health and learning how to approach negative emotions are difficult topics, but practicing and discussing mindfulness may help. Here are two guided meditation resources that I combined to share with my students.

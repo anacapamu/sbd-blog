@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2021-04-02T00:00:00-00:00
 tags: [Activities, Interactive, Labs, Physics]
 featured_image: "/images/cover-moon.jpg"
+show_reading_time: true
 ---
 
 **Overview:** This is a simple activity that can help students better understand how eclipses occur. The materials are the same from the Reasons for the Seasons Lab, but the focus is on how the students are angled when rotating the "moon" and how that may affect our perspective of the moon from Earth.

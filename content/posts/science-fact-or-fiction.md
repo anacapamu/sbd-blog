@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-09-14T22:17:26-07:00
 tags: [DistanceLearning, FactChecking, Icebreakers, Interactive, OnlineLearning, RemoteLearning, Worksheets]
 featured_image: "/images/cover-science-fact-or-fiction.png"
+show_reading_time: true
 ---
 
 **Overview:** There are a lot of fascinating and interesting “facts” or “scientific studies” that are shared around the internet. We commonly see them in articles, videos, or images; but how do you know if what you’re reading is actually true?

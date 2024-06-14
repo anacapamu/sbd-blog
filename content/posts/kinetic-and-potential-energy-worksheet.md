@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-28T18:20:46-07:00
 tags: [Worksheets, Physics]
 featured_image: "/images/cover-kinetic-potential.png"
+show_reading_time: true
 ---
 
 **Overview:** Here's a worksheet that can be used to supplement the [paper roller coaster project](/posts/the-paper-roller-coaster-project) and energy unit. It can be used after introducing the concepts and formulas for kinetic and potential energy.

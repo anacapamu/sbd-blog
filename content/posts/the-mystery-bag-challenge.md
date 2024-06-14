@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-08-06T01:09:56-07:00
 tags: [Activities, Icebreakers, Interactive]
 featured_image: "/images/cover-mystery-bag.jpg"
+show_reading_time: true
 ---
 
 **Overview:** Of all the icebreakers I've tried, this classic challenge is my favorite activity to do during the first few days of school. Students are always intrigued by what might be inside a mystery bag and the concept of working towards a common goal is an excellent way to build camaraderie between new classmates. Furthermore, the challenge itself is simple to understand and embodies all aspects of the scientific method, thus making it the ideal science icebreaker.

@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-04-25T02:44:12-07:00
 tags: [Projects, Biology, Evolution]
 featured_image: "/images/geologic-brochures/geologic-travel-brochures-4.png"
+show_reading_time: true
 ---
 
 {{< carousel src="/images/geologic-brochures/geologic-travel-brochures-1.png,/images/geologic-brochures/geologic-travel-brochures-2.png,/images/geologic-brochures/geologic-travel-brochures-3.png,/images/geologic-brochures/geologic-travel-brochures-4.png,/images/geologic-brochures/geologic-travel-brochures-5.png,/images/geologic-brochures/geologic-travel-brochures-6.png,/images/geologic-brochures/geologic-travel-brochures-7.png,/images/geologic-brochures/geologic-travel-brochures-8.png,/images/geologic-brochures/geologic-travel-brochures-9.png,/images/geologic-brochures/geologic-travel-brochures-10.png,/images/geologic-brochures/geologic-travel-brochures-11.png,/images/geologic-brochures/geologic-travel-brochures-12.png" alt="geologic travel brochures student example 1,geologic travel brochures student example 2,geologic travel brochures student example 3,geologic travel brochures student example 4,geologic travel brochures student example 5,geologic travel brochures student example 6,geologic travel brochures student example 7,geologic travel brochures student example 8,geologic travel brochures student example 9,geologic travel brochures student example 10,geologic travel brochures student example 11,geologic travel brochures student example 12">}}

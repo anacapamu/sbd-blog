@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-01T09:48:57-07:00
 tags: [Projects, Physics]
 featured_image: "/images/cover-roller-coaster.jpg"
+show_reading_time: true
 ---
 
 **Overview:** As part of my physics unit, I've used the Paper Roller Coaster project as a wonderfully engaging engineering project that explores Newton's three laws of motion, gravity, friction, kinetic energy, potential energy, etc. After learning about forces and energy, students have a chance to be creative and collaboratively build their own unique roller coasters, while applying the new concepts that they learn. I also found that this project works extremely well if you do the [marshmallow towers](/posts/marshmallow-towers/) the day before starting this one.

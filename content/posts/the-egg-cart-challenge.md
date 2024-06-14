@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-12-31T12:54:28-07:00
 tags: [Activities, GroupWork, Labs, Physics, Projects]
 featured_image: "/images/cover-egg-cart.png"
+show_reading_time: true
 ---
 
 **Overview:** After introducing Newton's laws of motion, I use this challenge as a fun and engaging lab to apply some of the concepts they've learned.

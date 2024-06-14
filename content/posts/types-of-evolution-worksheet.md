@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-02T02:43:53-07:00
 tags: [Biology, Evolution, Worksheets]
 featured_image: "/images/cover-evolution-types.png"
+show_reading_time: true
 ---
 
 **Overview:** Here's a short worksheet on different types of evolution (convergent, divergent, coevolution, and punctuated equilibrium). I generally use this after going over a short PowerPoint on different types of evolution. They would've seen several short videos on each type and can try to apply their knowledge to this review sheet.

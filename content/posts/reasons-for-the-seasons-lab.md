@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2021-02-27T21:39:20-07:00
 tags: [Activities, Interactive, Labs, Physics]
 featured_image: "/images/cover-seasons.png"
+show_reading_time: true
 ---
 
 **Overview:** In this lab activity, students have an opportunity to model Earth's orbit and work in small groups to discuss different ideas for why we have seasons.

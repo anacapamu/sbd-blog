@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-02T3:56:51-07:00
 tags: [FirstWeeks]
 featured_image: "/images/cover-teacher-letter.png"
+show_reading_time: true
 ---
 
 **Overview:** From personal experience, I’ve found that many students are open to sharing many aspects of their lives. The stories ranged from funny, wholesome adventures to stories of when they were homeless or in dangerous situations. Regardless of the emotions their stories evoked, I always appreciated their stories and it helped me adjust how I approached teaching them.

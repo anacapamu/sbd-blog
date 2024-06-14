@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-29T19:10:17-07:00
 tags: [Biology, Evolution, Worksheets]
 featured_image: "/images/cover-is-it-natural-selection.png"
+show_reading_time: true
 ---
 
 **Overview:** After learning about natural selection, students can test their knowledge on what qualifies as natural selection with seven different examples.

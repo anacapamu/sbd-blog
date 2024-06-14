@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-06-12T23:21:27-07:00
 tags: [DistanceLearning, OnlineLearning, Sustainability, Worksheets, Biology, Ecology]
 featured_image: "/images/cover-wolves-of-yellowstone.png"
+show_reading_time: true
 ---
 
 **Overview:** Here's a popular case study on the Wolves of Yellowstone that helps students understand ecosystem stability through trophic cascades.

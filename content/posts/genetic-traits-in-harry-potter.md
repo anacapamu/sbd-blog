@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-06-02T15:49:58-07:00
 tags: [PracticeProblems, Worksheets, Biology, Genetics]
 featured_image: "/images/genetic-traits-hp.jpg"
+show_reading_time: true
 ---
 
 **Overview:** A Harry Potter-inspired resource for introducing genetic inheritance if you *wand* to give it a try. Overall, it's well-organized and informative, but the original lessons were a bit lengthy, so I included an abridged version for Lessons 1 & 2.

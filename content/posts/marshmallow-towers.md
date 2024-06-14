@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-04-25T15:40:17-07:00
 tags: [Icebreakers, Physics]
 featured_image: "/images/cover-marshmallow-towers.png"
+show_reading_time: true
 ---
 
 **Overview:** This is a super fun and popular challenge that can be used as an icebreaker during the first week or before an engineering project, such as The Paper Roller Coaster Project. The goal of this challenge is simple: build the tallest free-standing structure you can make that can support a marshmallow on top.

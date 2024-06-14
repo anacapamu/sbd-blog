@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-03T05:57:24-07:00
 tags: [DistanceLearning, Games, Labs, OnlineLearning, RemoteLearning, Worksheets, Biology, Evolution]
 featured_image: "/images/cover-evolution-lab.png"
+show_reading_time: true
 ---
 
 **Overview:** This is a neat, guided online simulation that explores evolution through the lens of phylogeny. It follows a naturally engaging format, with questions such as "Is an animal or a plant more closely related to a fungus?" (students generally think plant, leading to the question of "what? how?")

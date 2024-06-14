@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-02T03:14:24-07:00
 tags: [DistanceLearning, PracticeProblems, Worksheets, Biology, Evolution, Genetics]
 featured_image: "/images/cover-pedigrees-packet"
+show_reading_time: true
 ---
 
 **Overview:** This was a resource I've used for high school biology and summer school. It has integrated explanations throughout the packet and can also work as a standalone self-review packet for students. Since it can be lengthy, I would do several examples with the students, before reviewing them together as a class. Depending on the time, you may also omit problems and still achieve the same result.

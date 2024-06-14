@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-02T2:28:17-07:00
 tags: [Games, Biology, Evolution]
 featured_image: "/images/cover-darwin-who-wants.png"
+show_reading_time: true
 ---
 
 **Overview:** This is a short, but fun game to demonstrate how natural selection works. In the game, you are able to randomly generate different types of bird-like species with the goal of surviving 1 million years of catastrophes, predators, etc. Depending on your pacing, this can work as an introduction to natural selection or a brief review of the concept.

@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-04-25T04:00:05-07:00
 tags: [Biology, Evolution, Labs]
 featured_image: "/images/cover-half-life-of-pennies.jpg"
+show_reading_time: true
 ---
 
 **Overview:** This is a simple lab to demonstrate how half-lives work. Students use 100 pennies to represent the decay of Carbon-14. After each half-life, roughly half the pennies should "decay."

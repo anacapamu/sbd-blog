@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-25T17:10:28-07:00
 tags: [Activities, Biology, Evolution]
 featured_image: "/images/cover-great-fossil-find.jpg"
+show_reading_time: true
 ---
 
 **Overview:** Adapted from UC Berkeley’s and Indiana University’s evolution page, this is a fun and engaging team building activity. I use it to introduce fossils as evidence of evolution, as well as to create a budget VR experience.

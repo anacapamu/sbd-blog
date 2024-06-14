@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-05-26T17:25:22-07:00
 tags: [Activities, Projects, Astronomy]
 featured_image: "/images/cover-solar-system-to-scale.png"
+show_reading_time: true
 ---
 
 **Overview:** A NASA-inspired variation of the receipt paper solar system, this version includes a little more math.

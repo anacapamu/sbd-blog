@@ -4,6 +4,7 @@ omit_header_text: true
 date: 2020-07-24T18:12:39-07:00
 tags: [DistanceLearning, Interactive, OnlineLearning, RemoteLearning, Worksheets, Astronomy, Biology, Evolution]
 featured_image: "/images/cover-understanding-scale.png"
+show_reading_time: true
 ---
 
 {{< figure src="/images/cover-understanding-scale.png" alt="lots of stars in night sky with mountains on the bottom" caption="Can you guess how many stars are in this image?" >}}
