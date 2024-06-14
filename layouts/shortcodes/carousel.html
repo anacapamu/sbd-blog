@@ -1,0 +1,67 @@
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    {{ $images := split (.Get "src") "," }}
+    {{ $alts := split (.Get "alt") "," }}
+    {{ range $i, $image := $images }}
+    <div class="swiper-slide">
+      <img src="{{ $image }}" alt="{{ index $alts $i | default "Image" }}" />
+    </div>
+    {{ end }}
+  </div>
+  <div class="swiper-pagination"></div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    new Swiper('.swiper-container', {
+      loop: true,
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+    });
+  });
+</script>
+
+<style>
+  .swiper-container {
+    position: relative;
+    width: 100%;
+    height: 300px; 
+    overflow: hidden;
+  }
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .swiper-slide img {
+    width: auto;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .swiper-button-next, .swiper-button-prev {
+    position: absolute;
+    top: 50%;
+    width: 27px;
+    height: 44px;
+    margin-top: -22px;
+    z-index: 10;
+    cursor: pointer;
+  }
+  .swiper-button-next {
+    right: 10px;
+  }
+  .swiper-button-prev {
+    left: 10px;
+  }
+  .swiper-pagination {
+    bottom: 10px;
+  }
+</style>
