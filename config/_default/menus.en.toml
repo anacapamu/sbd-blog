@@ -1,0 +1,43 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+pageRef = "/blog"
+weight = 1
+
+[[main]]
+name = "About"
+pageRef = "/about"
+weight = 2
+
+[[main]]
+weight = 3
+name = "8th Grade Pacing Guide"
+pageRef = "/pacing-guide-eighth"
+
+[[main]]
+weight = 4
+name = "Biology Pacing Guide"
+pageRef = "/pacing-guide-biology"
+
+[[main]]
+weight = 5
+name = "Teacher Resources"
+pageRef = "/teacher-resources"
+
+# footer menu
+[[footer]]
+name = "About"
+pageRef = "/about"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Contact"
+pageRef = "/contact"
+weight = 3
