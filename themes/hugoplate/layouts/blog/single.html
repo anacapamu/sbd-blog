@@ -13,13 +13,13 @@
             {{ .Title }}
           </h1>
           <ul class="mb-4">
-            <li class="mr-4 inline-block">
+            <!-- <li class="mr-4 inline-block">
               <a
                 href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
                 <i class="fa-regular fa-circle-user mr-2"></i
                 >{{ .Params.author }}
               </a>
-            </li>
+            </li> -->
             {{ $categories:= .Params.categories }}
             {{ if $categories }}
               <li class="mr-4 inline-block">
@@ -36,8 +36,18 @@
               </li>
             {{ end }}
             <li class="mr-4 inline-block">
-              <i class="fa-regular fa-clock mr-2"></i>
-              {{ time.Format ":date_long" .PublishDate }}
+              <!-- <i class="fa-regular fa-clock mr-2"></i> -->
+              {{ time.Format ":date_long" .PublishDate }}  -
+              {{ if eq .ReadingTime 1 }}
+                one minute read -
+              {{ else }}
+                {{ .ReadingTime }} minutes read -
+              {{ end }}
+              {{ if eq .WordCount 1 }}
+                one word
+              {{ else }}
+                {{ .WordCount }} words
+              {{ end }}
             </li>
           </ul>
           <div class="content mb-10">
@@ -62,9 +72,9 @@
                 </ul>
               </div>
             {{ end }}
-            <div class="lg:col-4 flex items-center">
+            <!-- <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (T "share") "Whatsapp" false "Telegram" false "Linkedin" false "Pinterest" false "Tumblr" false "Vk" false) }}
-            </div>
+            </div> -->
           </div>
           <!-- comments -->
           {{ if site.Config.Services.Disqus.Shortname }}
