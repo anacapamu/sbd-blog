@@ -38,6 +38,6 @@ pageRef = "/privacy-policy"
 weight = 2
 
 [[footer]]
-name = "Contact"
+name = "Contact Us"
 pageRef = "/contact"
 weight = 3
