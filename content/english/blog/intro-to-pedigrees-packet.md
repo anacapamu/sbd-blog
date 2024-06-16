@@ -2,7 +2,7 @@
 title: "Introduction to Pedigrees Packet | Guided Practice Problems"
 date: 2020-05-02T03:14:24-07:00
 tags: [DistanceLearning, PracticeProblems, Worksheets, Biology, Evolution, Genetics]
-image: "/images/cover-pedigrees-packet"
+image: "/images/cover-pedigrees-packet.png"
 ---
 
 ## Overview
