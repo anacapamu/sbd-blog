@@ -4,19 +4,19 @@ title: "8th Grade Pacing Guide"
 
 This is based on California's [Grade 8 Integrated Science Storyline](https://ngss.sdcoe.net/CA-NGSS-Course-Models/Middle-School-6-8/Preferred-Integrated-Model/Grade-8/CA-Science-Framework-Description-Grade-8).
 
-**First Weeks**
+## First Weeks
 
 **Week 1:** [Letter to Me](/blog/letter-to-teacher), [Mystery Bag Challenge](/blog/the-mystery-bag-challenge)
 
 **Week 2:** [Integrating Mindfulness Within the Classroom](/blog/integrating-mindfulness), [The Science Behind a Growth Mindset](/blog/teaching-the-science-behind-a-growth-mindset)
 
-**Week 3:** [Science Fact or Fiction?](/blog/science-fact-or-fiction-fact), Metric Conversions
+**Week 3:** [Science Fact or Fiction?](/blog/science-fact-or-fiction), Metric Conversions
 
 **Week 4:** Interpreting Graphs
 
 **Week 5:** Experimental Design & Lab Conclusions
 
-**Instructional Segment 1: Objects move & collide**
+## Instructional Segment 1: Objects move & collide
 
 **Week 1:** Describing Motion, Speed and Velocity, Acceleration
 
@@ -28,7 +28,7 @@ This is based on California's [Grade 8 Integrated Science Storyline](https://ngs
 
 **Week 9:** Kinetic & Potential Energy, [KE and PE Worksheet](/blog/kinetic-and-potential-energy-worksheet), Collisions Lab
 
-**Instructional Segment 2: Non-contact forces influence phenomena locally and in the solar system**
+## Instructional Segment 2: Non-contact forces influence phenomena locally and in the solar system
 
 **Week 1:** [Understanding Scale: How to Visualize One Billion](/blog/understanding-scale), [Solar System to Scale](/blog/solar-system-to-scale)
 
@@ -44,7 +44,7 @@ This is based on California's [Grade 8 Integrated Science Storyline](https://ngs
 
 **Week 9:** Build an Electromagnet Lab
 
-**Instructional Segment 3: Evolution explains life’s unity and diversity**
+## Instructional Segment 3: Evolution explains life’s unity and diversity
 
 **Week 1:** [Geologic Time Period Travel Brochures](/blog/geologic-time-period-travel-brochures), Index Fossils Activity
 
@@ -62,7 +62,7 @@ This is based on California's [Grade 8 Integrated Science Storyline](https://ngs
 
 **Weeks 9-10:** DNA Transcription and Translation, Gattaca (Movie)
 
-**Instructional Segment 4: Human activities help sustain biodiversity and ecosystem services in a changing world**
+## Instructional Segment 4: Human activities help sustain biodiversity and ecosystem services in a changing world
 
 **Week 1:** Socratic Seminars on Bioethics
 

@@ -4,19 +4,19 @@ title: "Biology Pacing Guide (Living Earth)"
 
 This is based on California's [Grades 9-12 The Living Earth Storyline](https://ngss.sdcoe.net/CA-NGSS-Course-Models/High-School-9-12/Three-Course-Model/The-Living-Earth/CA-Science-Framework-Description-Living-Earth). This pacing guide is still largely a work-in-progress, but feel free to use it to navigate some of my high school curriculum.
 
-**First Weeks**
+## First Weeks
 
 **Week 1:** [Letter to Me](/blog/letter-to-teacher), [Mystery Bag Challenge](/blog/the-mystery-bag-challenge)
 
 **Week 2:** [Integrating Mindfulness Within the Classroom](/blog/integrating-mindfulness), [The Science Behind a Growth Mindset](/blog/teaching-the-science-behind-a-growth-mindset)
 
-**Week 3:** [Science Fact or Fiction?](/blog/science-fact-or-fiction-fact), Metric Conversions
+**Week 3:** [Science Fact or Fiction?](/blog/science-fact-or-fiction), Metric Conversions
 
 **Week 4:** Interpreting Graphs
 
 **Week 5:** Experimental Design & Lab Conclusions, [Marshmallow Towers](/blog/marshmallow-towers)
 
-**Instructional Segment 1: Ecosystem Interactions & Energy**
+## Instructional Segment 1: Ecosystem Interactions & Energy
 
 **Week 1:** Substituted Sammy, Intro to Ecology Notes
 
@@ -30,7 +30,7 @@ This is based on California's [Grades 9-12 The Living Earth Storyline](https://n
 
 **Week 6:** Energy Flow Through Ecosystems, Biome Project
 
-**Instructional Segment 2: History of Earth's Atmosphere: Photosynthesis & Respiration**
+## Instructional Segment 2: History of Earth's Atmosphere: Photosynthesis & Respiration
 
 **Week 1:**
 
@@ -44,7 +44,7 @@ This is based on California's [Grades 9-12 The Living Earth Storyline](https://n
 
 **Week 6:** [Understanding Scale: How to Visualize One Billion](/blog/understanding-scale)
 
-**Instructional Segment 3: Evidence of Evolution**
+## Instructional Segment 3: Evidence of Evolution
 
 **Week 1:** [Geologic Time Period Travel Brochures](/blog/geologic-time-period-travel-brochures), Index Fossils
 
@@ -62,7 +62,7 @@ This is based on California's [Grades 9-12 The Living Earth Storyline](https://n
 
 **Week 8:** Fish or Mammals (Evidence of Evolution), [Types of Evolution Worksheet](/blog/types-of-evolution-worksheet/)
 
-**Instructional Segment 4: Inheritance of Traits**
+## Instructional Segment 4: Inheritance of Traits
 
 **Week 1:** DNA Transcription and Translation Notes, Punnett Squares WS
 
@@ -76,7 +76,7 @@ This is based on California's [Grades 9-12 The Living Earth Storyline](https://n
 
 **Week 6:** Socratic Seminars on Genetic Engineering, Gattaca (Movie)
 
-**Instructional Segment 5: Structure, Function and Growth (from cells to organisms)**
+## Instructional Segment 5: Structure, Function and Growth (from cells to organisms)
 
 **Week 1:**
 
@@ -90,7 +90,7 @@ This is based on California's [Grades 9-12 The Living Earth Storyline](https://n
 
 **Week 6:**
 
-**Instructional Segment 6: Ecosystem Stability & the Response to Climate Change**
+## Instructional Segment 6: Ecosystem Stability & the Response to Climate Change
 
 **Week 1:** The Story of Stuff, Ecological Footprint Calculator
 

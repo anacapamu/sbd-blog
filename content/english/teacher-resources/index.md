@@ -4,7 +4,7 @@ title: "Teacher Resources"
 
 Here are other science resources that may be helpful for you.
 
-**YouTube Channels:**
+### YouTube Channels
 
 - [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE/) - short animations with interesting premises; good for warmups/bell ringers
 
@@ -18,7 +18,7 @@ Here are other science resources that may be helpful for you.
 
 - [Minute Physics](https://www.youtube.com/user/minutephysics) - short animation explainers for physics
 
-**Lesson Resources:**
+### Lesson Resources
 
 - [Climate Science](https://climate-science.com/) - free lesson plans for understanding climate change and how we can tackle the issues
 
@@ -26,11 +26,11 @@ Here are other science resources that may be helpful for you.
 
 - [UC Berkeley](https://evolution.berkeley.edu/evolibrary/article/evo_01) - free evolution lesson plans and materials, including resources such as "The Great Fossil Find"
 
-**Articles:**
+### Articles
 
 - [Newsela](http://newsela.com) - has news articles with comprehension questions; articles are sorted by subject and can be adjusted for varying reading levels
 
-**Online Learning:**
+### Online Learning
 
 - [Google Classroom](https://classroom.google.com) - online classroom manager for assignments, assessments, etc.
 
