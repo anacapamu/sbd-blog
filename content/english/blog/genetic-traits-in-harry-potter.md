@@ -2,7 +2,7 @@
 title: "Genetic Traits in Harry Potter | PPT Notes & Practice Problems"
 date: 2020-06-02T15:49:58-07:00
 tags: [PracticeProblems, Worksheets, Biology, Genetics]
-image: "/images/genetic-traits-hp.jpg"
+image: "/images/cover-genetic-traits-hp.jpg"
 ---
 
 ## Overview

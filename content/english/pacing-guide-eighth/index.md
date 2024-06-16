@@ -36,7 +36,7 @@ This is based on California's [Grade 8 Integrated Science Storyline](https://ngs
 
 **Week 4:** Observing Patterns of Sun, Moon, and Stars' Movement (Reading), Seasons Notes
 
-**Week 5:** [Simulating Moon Phases & Eclipses](/blog/simulating-moon-phases-eclipses), Lunar Phases Station Lab, Eclipses Station Lab
+**Week 5:** [Simulating Moon Phases & Eclipses](/blog/simulating-moon-phases-and-eclipses), Lunar Phases Station Lab, Eclipses Station Lab
 
 **Weeks 6-7:** Tides Virtual Lab, Exploring Gravity in the Solar System (Reading)
 
