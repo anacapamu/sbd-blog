@@ -41,7 +41,7 @@ Faster, lazy prep: Fossil sets could be cut into 3 large pieces and students can
 
 - [How to Fossilize Yourself | TED Ed Video](https://youtu.be/yDIQzUSezmA)
 
-{{< figure src="/images/pakicetus-fossil.jpg" alt="Pakicetus Fossil">}} {{< figure src="/images/pakicetusjpg" alt="Pakicetus Artist Recreation">}}
+{{< figure src="/images/pakicetus-fossil.jpg" alt="Pakicetus Fossil" >}} {{< figure src="/images/pakicetus.jpg" alt="Pakicetus Artist Recreation">}}
 
 Pakicetus Fossil and Artist Recreation
 

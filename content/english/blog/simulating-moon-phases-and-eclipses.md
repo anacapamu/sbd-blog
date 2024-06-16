@@ -29,7 +29,7 @@ This is a simple activity that can help students better understand how eclipses 
 
 – [Moon Phases Demonstration | Video](https://www.youtube.com/watch?v=wz01pTvuMa0)
 
-{{< figure src="/images/simulate-new-moon.png" alt="simulating new moon" >}}
+{{< figure src="/images/simulate-new-moon.png" alt="simulating new moon" height="300px">}}
 
 ## Pacing
 
