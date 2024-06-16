@@ -3,4 +3,4 @@ title: "Contact Us"
 draft: false
 ---
 
-We'd love to hear from you! Email us at **hello@sciencebreakdowns.com** or fill out the contact form below.
+We'd love to hear from you! **<a href="mailto:hello@sciencebreakdowns.com?subject=Hello!">Email us</a>** with any questions or concerns.
