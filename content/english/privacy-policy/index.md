@@ -22,8 +22,8 @@ The data collected is shared with Cloudflare in an anonymous format. We do not s
 
 ### User Rights
 
-While we do not collect personal data, we are committed to respecting your privacy. If you have any questions about our data collection practices, please contact us at `privacy@sciencebreakdowns.com`.
+While we do not collect personal data, we are committed to respecting your privacy. If you have any questions about our data collection practices, please contact us at privacy@sciencebreakdowns.com.
 
 ### Contact Information
 
-If you have any questions about this privacy policy, you can reach us at `privacy@sciencebreakdowns.com`.
+If you have any questions about this privacy policy, you can reach us at privacy@sciencebreakdowns.com.
