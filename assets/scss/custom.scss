@@ -1,1 +1,13 @@
 // Add your own custom styles here
+
+.fixed-height-card {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+  }
+
+.fixed-height-blog-single {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+  }
