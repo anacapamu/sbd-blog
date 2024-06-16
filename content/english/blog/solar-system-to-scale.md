@@ -5,13 +5,16 @@ tags: [Activities, Projects, Astronomy]
 image: "/images/cover-solar-system-to-scale.png"
 ---
 
-**Overview:** A NASA-inspired variation of the receipt paper solar system, this version includes a little more math.
+## Overview
 
-**Materials:**
+A NASA-inspired variation of the receipt paper solar system, this version includes a little more math.
+
+## Materials
 
 3-4 rolls of receipt paper, color pencils and/or markers, meter sticks, calculators
 
-**Resources:**
+## Resources
+
 - [Astronomy to Scale Group Project](/downloads/solar-system-to-scale-group-project.pdf)
 
 - [Cosmic Eye Video](https://youtu.be/8Are9dDbW24)
@@ -20,13 +23,15 @@ image: "/images/cover-solar-system-to-scale.png"
 
 - [If the Moon Was Only 1 Pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 
-**Suggested Pacing: (2 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - introduce project | model calculations
 
 Day 2 - calculations and drawings
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - Understanding the space between planets is hard. I try to get them to think about abstract units by giving them a warmup on Earth relative to the Sun and showing them the [Cosmic Eye Video](https://youtu.be/8Are9dDbW24) afterwards. I let them know that the project we'll be working on will help them visualize our solar system.
 

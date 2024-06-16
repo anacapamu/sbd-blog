@@ -5,19 +5,21 @@ tags: [DistanceLearning, FactChecking, Icebreakers, Interactive, OnlineLearning,
 image: "/images/cover-science-fact-or-fiction.png"
 ---
 
-**Overview:** There are a lot of fascinating and interesting “facts” or “scientific studies” that are shared around the internet. We commonly see them in articles, videos, or images; but how do you know if what you’re reading is actually true?
+## Overview
 
-**Materials:**
+There are a lot of fascinating and interesting “facts” or “scientific studies” that are shared around the internet. We commonly see them in articles, videos, or images; but how do you know if what you’re reading is actually true?
+
+## Materials
 
 Projector, worksheets, laptops. Also formatted to work as a digital assignment or as a live online lesson via screen-sharing.
 
-**Preparation:**
+### Preparation
 
 - Share worksheets with students (format should work with Google Docs)
 
 - Create a Padlet for each class
 
-**Resources:**
+## Resources
 
 - [Science Fact or Fiction? | Available on TpT](https://www.teacherspayteachers.com/Product/Science-Fact-or-Fiction-Fake-News-Myths-Misconceptions-Online-Learning-6029210)
 
@@ -29,13 +31,15 @@ Projector, worksheets, laptops. Also formatted to work as a digital assignment o
 
 - [NewsFeed Defenders (Game)](https://www.factcheck.org/newsfeed-defenders/)
 
-**Suggested Pacing: (1-2 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 – introduce worksheet & directions || work on Parts 1-3
 
 Day 2 – share and discuss answers for Parts 2 and 3
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - To introduce the topic, I talk about how the internet makes it easy to share information and I ask students if they have heard of any science misconceptions (school-appropriate). For example, they may have heard of “humans swallow ~8 spiders a year while they sleep” or that “it takes 7 years to digest gum.” These statements are intriguing and it can be hard to know if they’re actually true.
 
@@ -53,5 +57,4 @@ In Parts 2 and 3, I go over the example with them and they are allowed to work i
 
 At the end of Part 3, I share some strategies they can use to fact-check information or find credible sources when writing research papers. We discuss and highlight why some information may be biased or misleading. Based on student feedback, the most useful tips for them were how to reverse image search and search only for sites that end in .edu or .gov by typing in “site:edu” at the end of a Google search.
 
-**Credits:**
-Inspired by David McCandless & other colleagues
+**Credits:** Inspired by David McCandless & other colleagues.

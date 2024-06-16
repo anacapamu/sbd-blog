@@ -5,13 +5,15 @@ tags: [PracticeProblems, Worksheets, Biology, Genetics]
 image: "/images/genetic-traits-hp.jpg"
 ---
 
-**Overview:** A Harry Potter-inspired resource for introducing genetic inheritance if you *wand* to give it a try. Overall, it's well-organized and informative, but the original lessons were a bit lengthy, so I included an abridged version for Lessons 1 & 2.
+## Overview
 
-**Materials:**
+A Harry Potter-inspired resource for introducing genetic inheritance if you *wand* to give it a try. Overall, it's well-organized and informative, but the original lessons were a bit lengthy, so I included an abridged version for Lessons 1 & 2.
+
+## Materials
 
 Handouts, project, whiteboard
 
-**Resources:**
+## Resources
 
 - [Prelesson (Basic Concepts & Terms)](/downloads/genetic-traits-hp/prelesson.ppt) | [Prelesson Teacher Notes](/downloads/genetic-traits-hp/prelesson-teacher-notes.pdf)
 
@@ -23,7 +25,7 @@ Handouts, project, whiteboard
 
 - [Original Source with Extension Lessons](https://www.nlm.nih.gov/exhibition/sciencemagicmedicine/education/lessonplan1.html)
 
-**Student Handouts with Keys:**
+### Student Handouts with Keys
 
 - [Basic Genetic Terms](/downloads/genetic-traits-hp/basic-genetic-terms.docx) (Pre-Lesson) | [Basic Genetic Terms Key](h/downloads/genetic-traits-hp/basic-genetic-terms-key.pdf)
 
@@ -35,17 +37,16 @@ Handouts, project, whiteboard
 
 - [Magic Runs in the Family](/downloads/genetic-traits-hp/magic-runs-in-the-family.docx) (Extra Practice) | [Magic Runs in the Family Key](/downloads/genetic-traits-hp/magic-runs-in-the-family-key.pdf)
 
-**Suggested Pacing: (2 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - pre-lesson | lesson 1
 
 Day 2 - lesson 2 | review questions
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Days 1 & 2** - The teacher notes in the resources can give you a good idea on how to implement the lessons. I personally preferred having shorter versions that allowed for students to work together and figure them out, but they are adjustable depending on where your students are at.
 
-**Credits:**
-[US National Library of Medicine](https://www.nlm.nih.gov/exhibition/sciencemagicmedicine/education/lessonplan1.html)
-
-Cover image by Artem Maltsev on <a href="https://unsplash.com/photos/person-holding-wand-on-top-of-bowl-3n7DdlkMfEg">Unsplash</a>
+**Credits:** [US National Library of Medicine](https://www.nlm.nih.gov/exhibition/sciencemagicmedicine/education/lessonplan1.html). Cover image by Artem Maltsev on <a href="https://unsplash.com/photos/person-holding-wand-on-top-of-bowl-3n7DdlkMfEg">Unsplash</a>.

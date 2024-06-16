@@ -5,11 +5,13 @@ tags: [Projects, Physics]
 image: "/images/cover-roller-coaster.jpg"
 ---
 
-**Overview:** As part of my physics unit, I've used the Paper Roller Coaster project as a wonderfully engaging engineering project that explores Newton's three laws of motion, gravity, friction, kinetic energy, potential energy, etc. After learning about forces and energy, students have a chance to be creative and collaboratively build their own unique roller coasters, while applying the new concepts that they learn. I also found that this project works extremely well if you do the [marshmallow towers](/posts/marshmallow-towers/) the day before starting this one.
+## Overview
+
+As part of my physics unit, I've used the Paper Roller Coaster project as a wonderfully engaging engineering project that explores Newton's three laws of motion, gravity, friction, kinetic energy, potential energy, etc. After learning about forces and energy, students have a chance to be creative and collaboratively build their own unique roller coasters, while applying the new concepts that they learn. I also found that this project works extremely well if you do the [marshmallow towers](/posts/marshmallow-towers/) the day before starting this one.
 
 On a side note, this is a popular, but pricey project to do, as card stock and tape can run up $200-300 for around 150 students. However, leftover supplies can be used the following year, which may reduce future costs. I would suggest using department funds or doing a fundraiser for the material purchases.
 
-**Materials:**
+## Materials
 
 Estimated supplies for about 150 students with semi-clear instructions to conserve paper and tape:
 
@@ -23,7 +25,15 @@ Estimated supplies for about 150 students with semi-clear instructions to conser
 
 - 30 rolls of tape w/ at least 1 dispenser per group
 
-**Resources:**
+### Classroom Preparation
+
+- Have an area for all the roller coaster parts and labels for them
+
+- If possible, partition off areas for each period to place their projects/foam boards/bags
+
+- Be clear about cleanliness and allow for about 5 minutes for clean up before the period ends
+
+## Resources
 
 Templates and instructions for building can be found on [paperrollercoaster.com](http://paperrollercoaster.com) or for free on YouTube/online:
 
@@ -33,7 +43,9 @@ Templates and instructions for building can be found on [paperrollercoaster.com]
 
 - [Example of a 2-story paper roller coaster](https://www.youtube.com/watch?v=r7eZmHyOTK0)
 
-**Suggested Pacing: (~12-15 days)**
+## Pacing
+
+### Suggested Pacing: (~12-15 days)**
 
 Day 1 – introduce paper roller coaster project and go over the requirements/grading
 
@@ -69,7 +81,7 @@ Day 12 – rollercoaster test day 1 | work on KE + PE rollercoaster calculations
 
 Day 13 – rollercoaster test day 2 | work on KE + PE rollercoaster calculations
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - After front-loading the basics of forces and energy, I introduce this engineering project as a group challenge to build a unique, gravity-based paper roller coaster. I let them know that the basic premise is simple and the requirements serve as a checklist for what to do, but they have a lot of freedom to be creative. More about grading below.
 
@@ -81,20 +93,10 @@ As for parts, I focus on showing them how to build the framework first, before g
 
 **Days 5-13** - For the rest of the days, I intersperse videos and notes on kinetic and potential energy. I try to keep those under 15 minutes and I give them the rest of the time to build. I roam around the room and help them if they have any questions or if they're struggling with building a part. I also give suggested progress goals to encourage them to stay on top of their work.
 
-**Classroom Preparation:**
-
-- Have an area for all the roller coaster parts and labels for them
-
-- If possible, partition off areas for each period to place their projects/foam boards/bags
-
-- Be clear about cleanliness and allow for about 5 minutes for clean up before the period ends
-
-**Grading:**
+## Grading
 
 Because of the length of the project and the amount of effort that goes into it, I don't want any students to score below a C. Thus, the grading is curved for each period. I remove any outliers to try to push everyone towards a B or higher, as one of my main goals is for them to be okay with taking risks; that can occasionally lead to spectacular failures.
 
 Roller coaster grading – (highest group score – lowest group score) / 25 ; score range between 75% - 100%
 
-**Credits:** Adapted from and credit to Andrew Gatt ([paperrollercoaster.com](http://paperrollercoaster.com)); colleagues for implementation ideas.
-
-Cover image by Somruthai Keawjan on <a href="https://unsplash.com/photos/a-roller-coaster-at-an-amusement-park-IU50vDwlhEc">Unsplash</a>
+**Credits:** Adapted from and credit to Andrew Gatt ([paperrollercoaster.com](http://paperrollercoaster.com)); colleagues for implementation ideas. Cover image by Somruthai Keawjan on <a href="https://unsplash.com/photos/a-roller-coaster-at-an-amusement-park-IU50vDwlhEc">Unsplash</a>.

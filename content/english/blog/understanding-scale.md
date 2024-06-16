@@ -5,20 +5,22 @@ tags: [DistanceLearning, Interactive, OnlineLearning, RemoteLearning, Worksheets
 image: "/images/cover-understanding-scale.png"
 ---
 
-{{< figure src="/images/cover-understanding-scale.png" alt="lots of stars in night sky with mountains on the bottom" caption="Can you guess how many stars are in this image?" >}}
+*Can you guess how many stars are in the above image?*
 
-**Overview:** As of February 2021, Jeff Bezos has a net worth of 192 billion dollars. Did you know that if you earned $260,000 a day since Jesus was born (or 2,021 years ago), you would still not have as much money as him? In order to have the same amount of money as him, you would need to have made around $260,102.60 a day for the past 2,021 years!
+## Overview
+
+As of February 2021, Jeff Bezos has a net worth of 192 billion dollars. Did you know that if you earned $260,000 a day since Jesus was born (or 2,021 years ago), you would still not have as much money as him? In order to have the same amount of money as him, you would need to have made around $260,102.60 a day for the past 2,021 years!
 
 (Editor’s Note: As of July 2020, Jeff Bezos had a net worth of 178.2 billion dollars and you would’ve needed to have made around $241,527.23 a day for the past 2,020 years.)
 
 As humans, we can easily visualize ten objects or even a hundred objects. However, it is difficult for us to accurately visualize a few thousand objects, a few million objects, or a few billion objects. This makes it hard to contextualize events in Earth’s history or our solar system’s history, as we have few experiences or examples to refer to when we think about enormous quantities.
 To help students better understand scale, this assignment is a compilation of thought-provoking questions and visuals that seek to make abstract numbers more relatable. This assignment works well prior to teaching astronomy ([Solar System to Scale](/posts/solar-system-to-scale)) or evolution ([Geologic Time Period Travel Brochures](/posts/geologic-time-period-travel-brochures)).
 
-**Materials:**
+## Materials
 
 Projector, worksheets. Also works well as a digital assignment or a live online lesson via screen-sharing.
 
-**Resources:**
+## Resources
 
 - [Understanding Scale: How Big is a Billion? Worksheet | Available on TpT](https://www.teacherspayteachers.com/Product/Understanding-Scale-How-to-Visualize-One-Billion-Interactive-Worksheet-5818251)
 
@@ -30,13 +32,15 @@ Projector, worksheets. Also works well as a digital assignment or a live online 
 
 - [What one billion dollars look like (language warning) | Reckful](https://www.youtube.com/watch?v=0J6BQDKiYyM)
 
-**Suggested Pacing: (1-2 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - introduce what scale is | introduce worksheet
 
 Day 2 - share and discuss answers
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - To introduce the topic, I start with a warmup image of a guessing jar, asking them to estimate the number of objects inside. I ask students to write down their estimates without discussing it with their peers. Based on their guesses, I create a range of answers to show the massive differences in how we estimate the number of objects.
 
@@ -54,6 +58,4 @@ If students finish early, here is an optional link to look at [wealth inequality
 
 This assignment works well prior to teaching about the history of Earth, evolution, or the development of our solar system and the distance between planets.
 
-**Credits:** Inspired by Byron Bernstein
-
-Cover image by Brandon Siu via Unsplash
+**Credits:** Inspired by Byron Bernstein. Cover image by Brandon Siu via Unsplash.

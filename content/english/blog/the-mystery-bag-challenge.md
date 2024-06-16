@@ -5,9 +5,11 @@ tags: [Activities, Icebreakers, Interactive]
 image: "/images/cover-mystery-bag.jpg"
 ---
 
-**Overview:** Of all the icebreakers I've tried, this classic challenge is my favorite activity to do during the first few days of school. Students are always intrigued by what might be inside a mystery bag and the concept of working towards a common goal is an excellent way to build camaraderie between new classmates. Furthermore, the challenge itself is simple to understand and embodies all aspects of the scientific method, thus making it the ideal science icebreaker.
+## Overview
 
-**Materials:**
+Of all the icebreakers I've tried, this classic challenge is my favorite activity to do during the first few days of school. Students are always intrigued by what might be inside a mystery bag and the concept of working towards a common goal is an excellent way to build camaraderie between new classmates. Furthermore, the challenge itself is simple to understand and embodies all aspects of the scientific method, thus making it the ideal science icebreaker.
+
+## Materials
 
 Worksheet
 
@@ -33,11 +35,11 @@ Suggested Item List for Each Mystery Bag (~8-10 unique items):
 
 - Foam ball
 
-**Preparation:**
+### Preparation
 
 - 8 Mystery bags (or 1 per group of 4)
 
-**Resources:**
+## Resources
 
 - [The Mystery Bag Challenge Worksheet | Available on TpT](https://www.teacherspayteachers.com/Product/The-Mystery-Bag-Challenge-Great-Icebreaker-Hands-On-Activity-5876738)
 
@@ -47,13 +49,15 @@ Suggested Item List for Each Mystery Bag (~8-10 unique items):
 
 - [An Aurora Called 'Steve'? Strange Sky Phenomenon Investigated](https://www.space.com/36583-new-aurora-feature-named-steve-investigated.html)
 
-**Suggested Pacing: (1-2 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - mystery bag challenge | how science works
 
 Day 2 - mystery bag reveal | wrap up discussion
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes:**
 
 **Day 1** - For this challenge, I like to introduce it after going over the syllabus and classroom norms. After they've had a chance to do some icebreakers and feel more comfortable in the classroom, I briefly ask them about how science works and we transition into the activity.
 
@@ -65,4 +69,4 @@ If there is time, I show them a video that goes over an [example of how science 
 
 **Day 2** - On Day 2, I give them a chance to share their answers to the discussion questions and their guesses on what they thought was inside the mystery bags. I like to have them write their responses on the board, as they can connect their answers to what they did during the challenge. When we finish discussing, I give them a chance to look inside the bags. I wrap up the activity by highlighting an [example of how citizen scientists can make discoveries](https://www.space.com/36583-new-aurora-feature-named-steve-investigated.html) and by showing a video on [why science is a crucial subject to understand](https://youtu.be/8MqTOEospfo).
 
-**Credits:** California Academy of Sciences, StarTalk, Space
+**Credits:** California Academy of Sciences, StarTalk, Space.

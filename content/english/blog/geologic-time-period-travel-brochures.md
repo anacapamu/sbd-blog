@@ -7,15 +7,17 @@ image: "/images/geologic-brochures/geologic-travel-brochures-4.png"
 
 {{< carousel src="/images/geologic-brochures/geologic-travel-brochures-1.png,/images/geologic-brochures/geologic-travel-brochures-2.png,/images/geologic-brochures/geologic-travel-brochures-3.png,/images/geologic-brochures/geologic-travel-brochures-4.png,/images/geologic-brochures/geologic-travel-brochures-5.png,/images/geologic-brochures/geologic-travel-brochures-6.png,/images/geologic-brochures/geologic-travel-brochures-7.png,/images/geologic-brochures/geologic-travel-brochures-8.png,/images/geologic-brochures/geologic-travel-brochures-9.png,/images/geologic-brochures/geologic-travel-brochures-10.png,/images/geologic-brochures/geologic-travel-brochures-11.png,/images/geologic-brochures/geologic-travel-brochures-12.png" alt="geologic travel brochures student example 1,geologic travel brochures student example 2,geologic travel brochures student example 3,geologic travel brochures student example 4,geologic travel brochures student example 5,geologic travel brochures student example 6,geologic travel brochures student example 7,geologic travel brochures student example 8,geologic travel brochures student example 9,geologic travel brochures student example 10,geologic travel brochures student example 11,geologic travel brochures student example 12">}}
 
-**Overview:** To help students understand Earth's history, I used this short project to introduce students to major time periods and extinctions. The idea is that they research information on a particular time period, create a travel brochure, and share their project with their colleagues through a gallery walk.
+## Overview
 
-**Materials:**
+To help students understand Earth's history, I used this short project to introduce students to major time periods and extinctions. The idea is that they research information on a particular time period, create a travel brochure, and share their project with their colleagues through a gallery walk.
+
+## Materials
 
 Internet access, paper, color pencils, rulers.
 
 Optional: textbook reading on geological time periods
 
-**Resources:**
+## Resources
 
 - [Travel Brochure](/downloads/travel-brochure.doc)
 
@@ -23,17 +25,19 @@ Optional: textbook reading on geological time periods
 
 - [The Evolution of Life on Earth | ASAP Science](https://youtu.be/H2_6cqa2cP4)
 
-**Suggested Pacing: (~5 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - Intro to project + grading rubric
 
-Day 2 & 3 - Outline + research + design brochure
+Days 2 & 3 - Outline + research + design brochure
 
 Day 4 - Finish brochure
 
 Day 5 - Gallery walk
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - I introduce the topic with warmup questions asking: 1) How old is Earth? 2) If Earth's history was compressed into 24 hours, what time would humans arrive? To help students understand the questions, I compare Earth's history to a party that goes on for 24 hours; then I'd ask when humans would arrive at this "party." After listening to their guesses, I show them this video: [The Evolution of Life on Earth](https://youtu.be/H2_6cqa2cP4).
 

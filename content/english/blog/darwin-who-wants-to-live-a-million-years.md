@@ -5,23 +5,27 @@ tags: [Games, Biology, Evolution]
 image: "/images/cover-darwin-who-wants.png"
 ---
 
-**Overview:** This is a short, but fun game to demonstrate how natural selection works. In the game, you are able to randomly generate different types of bird-like species with the goal of surviving 1 million years of catastrophes, predators, etc. Depending on your pacing, this can work as an introduction to natural selection or a brief review of the concept.
+## Overview
 
-**Materials:**
+This is a short, but fun game to demonstrate how natural selection works. In the game, you are able to randomly generate different types of bird-like species with the goal of surviving 1 million years of catastrophes, predators, etc. Depending on your pacing, this can work as an introduction to natural selection or a brief review of the concept.
+
+## Materials
 
 Internet access and worksheet print outs (can be done digitally as well)
 
-**Resources:**
+## Resources
 
 - [Charles Darwin Natural Selection Game](https://coolsciencelab.com/who_wants_to_live_a_million_years.htm)
 
 - [Charles Darwin Natural Selection Game Worksheet](/downloads/darwin-natural-selection-game.docx)
 
-**Suggested Pacing: (1 day)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - model how to navigate the game | play game and review questions
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - Before class, I recommend sharing the link on any class website. The game itself is relatively straightforward, and students tend to want to jump in right away. I personally show the students how to navigate the website on my projector and show the features they could use (e.g. mutations, hints, etc.).
 

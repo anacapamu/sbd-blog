@@ -5,25 +5,29 @@ tags: [Icebreakers, Physics]
 image: "/images/cover-marshmallow-towers.png"
 ---
 
-**Overview:** This is a super fun and popular challenge that can be used as an icebreaker during the first week or before an engineering project, such as The Paper Roller Coaster Project. The goal of this challenge is simple: build the tallest free-standing structure you can make that can support a marshmallow on top.
+## Overview
 
-**Materials:**
+This is a super fun and popular challenge that can be used as an icebreaker during the first week or before an engineering project, such as The Paper Roller Coaster Project. The goal of this challenge is simple: build the tallest free-standing structure you can make that can support a marshmallow on top.
+
+## Materials
 
 Per group: 20 sticks of spaghetti, 1 meter of string, 1 meter of tape, 1 marshmallow (I prep this by wrapping the string around the pasta and having tape ready from a table)
 
-**Resources:**
+## Resources
 
 - [Build a tower, build a team | Tom Wujec](https://youtu.be/H0_yKBitO8M)
 
 - [Marshmallow Challenge Presentation](/downloads/marshmallow-challenge-presentation.pptx)
 
-**Suggested Pacing: (~1-2 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - introduce and do marshmallow challenge
 
 Day 2 - optional: quick reflection on engineering process and failing/growth mindset
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - To start this challenge, I have students get into groups of 3-4. This may be random or student-selected. I use the PowerPoint to have them read the rules and I answer any questions they may have. Once they start, I project a timer for 18 minutes and I let them design their marshmallow towers.
 

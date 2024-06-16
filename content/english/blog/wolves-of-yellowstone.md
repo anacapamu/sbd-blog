@@ -5,13 +5,21 @@ tags: [DistanceLearning, OnlineLearning, Sustainability, Worksheets, Biology, Ec
 image: "/images/cover-wolves-of-yellowstone.png"
 ---
 
-**Overview:** Here's a popular case study on the Wolves of Yellowstone that helps students understand ecosystem stability through trophic cascades.
+## Overview
 
-**Materials:**
+Here's a popular case study on the Wolves of Yellowstone that helps students understand ecosystem stability through trophic cascades.
+
+## Materials
 
 Worksheets, student laptops (optional)
 
-**Resources:**
+### Preparation
+
+If you have access to student laptops, you may share the video links beforehand. Students may work in pairs to re-watch the videos.
+
+Review the teacher's guide beforehand, as some questions may confuse students on what to do. The guide also offers some neat extension activities if you have extra time. Please note, the Vimeo link in the guide no longer works.
+
+## Resources
 
 - [Wolves of Yellowstone | Nat Geo Video](https://www.pbslearningmedia.org/resource/a58e3ca2-52ab-45f5-87ac-26ee0d681146/wolves-of-yellowstone-earth-a-new-wild/)
 
@@ -23,19 +31,15 @@ Worksheets, student laptops (optional)
 
 - [Wolves of Yellowstone Teacher Guide w/ Answer Key](/downloads/yellowstone-wolves/wolves-of-yellowstone-teacher-guide-w-answer-key.pdf)
 
-**Preparation:**
+## Pacing
 
-If you have access to student laptops, you may share the video links beforehand. Students may work in pairs to re-watch the videos.
-
-Review the teacher's guide beforehand, as some questions may confuse students on what to do. The guide also offers some neat extension activities if you have extra time. Please note, the Vimeo link in the guide no longer works.
-
-**Suggested Pacing: (2 days)**
+### Suggested Pacing
 
 Day 1 - introduce wolves case study | work on part 1
 
 Day 2 - finish part 1 and 2 | review and discuss answers on board
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - I start this lesson with a warmup question asking students how they think animals can change the environment around them. Typically, responses will focus on minor environmental changes. Transitioning from our discussion, I show them [how wolves could change rivers](https://youtu.be/ysa5OBhXz-Q) and I introduce the worksheets attached.
 
@@ -43,6 +47,4 @@ When I introduce Part 1, I model a sample answer to help guide their responses. 
 
 **Day 2** - Depending on how well students understand the material, the worksheets could be assigned for homework or worked on in class. After they finish both part 1 and 2, I ask them to write their answers on the board. We go over the questions together and you may have students peer-grade their work and/or discuss any confusing questions.
 
-**Credits**: PBS, Passion, The Nature Conservancy
-
-Cover image by Eva Blue via [Unsplash](https://unsplash.com/photos/e9hbo4NtKJ0).
+**Credits**: PBS, Passion, The Nature Conservancy. Cover image by Eva Blue via [Unsplash](https://unsplash.com/photos/e9hbo4NtKJ0).

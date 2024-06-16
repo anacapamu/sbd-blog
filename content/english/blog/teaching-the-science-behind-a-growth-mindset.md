@@ -5,15 +5,17 @@ tags: [Activities, Articles, FirstWeeks, GrowthMindset, Icebreakers, Interactive
 image: "/images/cover-growth-mindset.png"
 ---
 
-**Overview:** In Carol Dweck's book, "Mindset: The New Psychology of Success," she discusses the differences between having a fixed vs growth mindset and how those two beliefs can greatly affect how you learn. The effects of having a growth mindset has become an increasingly popular topic in education, as Dweck argues that it ([when done correctly](https://portal.cornerstonesd.ca/group/yyd5jtk/Documents/Carol%20Dweck%20Growth%20Mindsets.pdf)) could help reduce the achievement gap in schools. You can read a brief summary of her book [here](https://www.integrityia.com/wp-content/uploads/2017/09/Mindset-by-Carol-Dweck-Book-Summary-and-PDF.pdf) or the [first few chapters available on Stanford's website](https://dci.stanford.edu/wp-content/uploads/2018/03/mindset-chap-1-3.pdf).
+## Overview
+
+In Carol Dweck's book, "Mindset: The New Psychology of Success," she discusses the differences between having a fixed vs growth mindset and how those two beliefs can greatly affect how you learn. The effects of having a growth mindset has become an increasingly popular topic in education, as Dweck argues that it ([when done correctly](https://portal.cornerstonesd.ca/group/yyd5jtk/Documents/Carol%20Dweck%20Growth%20Mindsets.pdf)) could help reduce the achievement gap in schools. You can read a brief summary of her book [here](https://www.integrityia.com/wp-content/uploads/2017/09/Mindset-by-Carol-Dweck-Book-Summary-and-PDF.pdf) or the [first few chapters available on Stanford's website](https://dci.stanford.edu/wp-content/uploads/2018/03/mindset-chap-1-3.pdf).
 
 As an educator, I wanted to share this information with my students and encourage them to embrace challenges. Here are the lesson plans I use at the beginning of the year.
 
-**Materials:**
+## Materials
 
 Projector, worksheets, laptops, butcher (or poster) paper.
 
-**Resources:**
+## Resources
 
 - [Mindset Quiz (Student)](/downloads/growth-mindset/mindset-quiz-student.pdf) | [Mindset Quiz (Teacher)](/downloads/growth-mindset/mindset-quiz.pdf)
 
@@ -27,7 +29,7 @@ Projector, worksheets, laptops, butcher (or poster) paper.
 
 - [Mindset Lesson Plans | Khan Academy & PERTS](/downloads/growth-mindset/mindset-lesson-plans-khan-academy.pdf)
 
-**Additional Reading:**
+### Additional Reading
 
 - [How to correctly encourage/develop a growth mindset | Carol Dweck](https://portal.cornerstonesd.ca/group/yyd5jtk/Documents/Carol%20Dweck%20Growth%20Mindsets.pdf)
 
@@ -35,13 +37,15 @@ Projector, worksheets, laptops, butcher (or poster) paper.
 
 - [Summary of "Mindset" by Carol Dweck](https://www.integrityia.com/wp-content/uploads/2017/09/Mindset-by-Carol-Dweck-Book-Summary-and-PDF.pdf)
 
-**Suggested Pacing: (2-3 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - mindset quiz | science behind a growth mindset article
 
 Days 2-3 - famous failures | growth mindset scenario posters
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - I start this lesson with a warmup question asking, "What is a neuron and what does it do?" After giving them a couple of minutes to write or guess, I have a few students share and we come up with a definition and how it functions. I let them know that we will be doing a short lesson on how our brain learns.
 
@@ -55,6 +59,4 @@ For the rest of class, I split them into groups of 4 and let them work together 
 
 Once they're done, I have them share a scenario of their choice and I put their posters up on the classroom wall.
 
-**Credits:** Dr. Carol Dweck, Khan Academy, Brainology, ReachOut, PERTS
-
-Cover image by dose via Unsplash
+**Credits:** Dr. Carol Dweck, Khan Academy, Brainology, ReachOut, PERTS. Cover image by dose via Unsplash.

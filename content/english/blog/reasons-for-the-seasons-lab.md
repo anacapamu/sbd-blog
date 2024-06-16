@@ -5,9 +5,11 @@ tags: [Activities, Interactive, Labs, Physics]
 image: "/images/cover-seasons.png"
 ---
 
-**Overview:** In this lab activity, students have an opportunity to model Earth's orbit and work in small groups to discuss different ideas for why we have seasons.
+## Overview
 
-**Materials:**
+In this lab activity, students have an opportunity to model Earth's orbit and work in small groups to discuss different ideas for why we have seasons.
+
+## Materials
 
 - Light bulbs, either with a clamp or as part of a lamp (to represent the sun)
 
@@ -17,11 +19,11 @@ image: "/images/cover-seasons.png"
 
 - Student worksheets
 
-**Preparation:**
+### Preparation
 
 - Depending on the number of groups, set up lamps/light bulb stands and foam ball throughout the classroom (1 light source and 2 foam balls for each group)
 
-**Resources:**
+## Resources
 
 - [Reasons for the Seasons Lab | Student Worksheet](/downloads/seasons-lab.pdf)
 
@@ -37,13 +39,15 @@ image: "/images/cover-seasons.png"
 
 - [What causes seasons? | Veritasium](https://youtu.be/b3TRUDKpoAs)
 
-**Suggested Pacing: (2 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - introduce lab & model the activity | model and discuss ideas in groups
 
 Day 2 - wrap up group work (skip last two pages) | review activity questions
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - For their warmups, I ask students to share some of their ideas for why they think we have seasons. After we discuss the warmups, I have students get into groups of 3-4. Groups may be random or student-selected. I project the worksheet on screen and I have students read the directions.
 
@@ -55,6 +59,4 @@ In their groups, I give them about 5 minutes to read and model each activity. Th
 
 In the last half of class, we review the questions as a class before they turn it in. Optional: As part of the review, you may share with them two videos that summarize what they've learned or assign them as EdPuzzles ([Why do we have seasons? | Cal Academy](https://www.youtube.com/watch?v=WgHmqv_-UbQ) and [Reasons for the seasons | TedEd](https://www.youtube.com/watch?v=DD_8Jm5pTLk)).
 
-**Credits:** Ann Bykerk-Kauffman
-
-Cover image by Chris Lawton via Unsplash
+**Credits:** Ann Bykerk-Kauffman. Cover image by Chris Lawton via Unsplash.

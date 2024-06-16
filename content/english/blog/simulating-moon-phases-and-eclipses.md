@@ -43,6 +43,4 @@ Day 1 - model activity | prior to lunar phases and eclipses station labs
 
 It is useful to model the two rotations to the students and let them know what to focus on. Students may then work in pairs or small groups to observe and record what they see on their Lunar Phases worksheets.
 
-**Credits:** NASA and my colleagues
-
-Cover image by NASA via [Unsplash](https://unsplash.com/photos/V4ZksNimxLk).
+**Credits:** NASA and my colleagues. Cover image by NASA via [Unsplash](https://unsplash.com/photos/V4ZksNimxLk).

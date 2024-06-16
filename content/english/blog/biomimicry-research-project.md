@@ -5,15 +5,18 @@ tags: [Activities, Bioengineering, DistanceLearning, GroupWork, Interactive, Onl
 image: "/images/cover-biomimicry.png"
 ---
 
-**Overview:** In our unit on human impact, we discuss what biomimicry is and how it can be used to create more sustainable and efficient technology. The project allows students to design their own nature-inspired technology and present their ideas to their peers.
+## Overview
 
-**Materials:**
+In our unit on human impact, we discuss what biomimicry is and how it can be used to create more sustainable and efficient technology. The project allows students to design their own nature-inspired technology and present their ideas to their peers.
+
+## Materials
 
 - Internet access
 
 - Student worksheets & rubric
 
-**Resources:**
+## Resources
+
 - [Biomimicry Research Project | Original Guide](/downloads/biomimicry-project.pdf)
 
 - [Biomimicry Research Project Instructions w/ Rubric | Student Worksheet](/downloads/biomimicry-research-project-instructions.docx)
@@ -24,7 +27,9 @@ image: "/images/cover-biomimicry.png"
 
 - [The world is poorly designed. But copying nature helps. | Vox](https://www.youtube.com/watch?v=iMtXqTmfta0)
 
-**Suggested Pacing: (5-6 days)**
+## Pacing
+
+### Suggested Pacing
 
 Day 1 - Introduce project | Work in groups to define & research problems
 
@@ -32,7 +37,7 @@ Days 2-4 - Research solutions & work on designs
 
 Days 5-6 - Present final designs
 
-**Pacing w/ Teacher Notes:**
+### Pacing w/ Teacher Notes
 
 **Day 1** - For their warmups, I ask students to share some of their ideas about what biomimicry is and if they know of any inventions inspired by nature. After we discuss the warmups, I show them a [video on what biomimicry is and how it has improved technology](https://youtu.be/iMtXqTmfta0). Before we go over the project, I have students get into groups of 3-4. Groups may be random or student-selected. I project the worksheet on screen and we go over the directions as a class. Depending on how much time is left, I let them brainstorm about problems they want to research.
 
@@ -42,4 +47,4 @@ As for the final designs, students may create a poster and/or presentation to de
 
 **Days 5-6** - Students share their biomimicry projects to the class (see rubric for scoring). As groups are presenting, I have the other students take notes on what each project was about. When everyone is done presenting, we do a short debrief on the ideas that they liked best and how they could improve their future designs.
 
-**Credits:** Science Scope, Celeste Nicholas, Jeffrey Peterson, and my colleagues
+**Credits:** Science Scope, Celeste Nicholas, Jeffrey Peterson, and my colleagues.
