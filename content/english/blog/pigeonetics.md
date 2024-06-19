@@ -14,10 +14,6 @@ Pigeonetics is an interactive and fun way to explore and visualize how genetics 
 
 - Optional: [Student worksheet, fillable pdf](https://teach.genetics.utah.edu/content/pigeons/Pigeon-Genetics-Worksheet_interactive.pdf/)
 
-### Preparation
-
-- Replace this with preparation steps
-
 ## Resources
 
 - [Teacher’s guide](https://teach.genetics.utah.edu/content/pigeons/PigeoneticsGameTeacherGuide.pdf)
