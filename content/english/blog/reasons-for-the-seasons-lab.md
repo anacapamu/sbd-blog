@@ -1,5 +1,5 @@
 ---
-title: "Reasons for the Seasons Lab"
+title: "Reasons for the Seasons Lab | Hands-On Activity"
 date: 2021-02-27T21:39:20-07:00
 tags: [Activities, Interactive, Labs, Physics]
 image: "/images/cover-seasons.png"

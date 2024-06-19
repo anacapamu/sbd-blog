@@ -1,5 +1,5 @@
 ---
-title: "Pigeonetics"
+title: "Pigeonetics | Online Genetics Game"
 date: 2024-06-15T23:14:54-07:00
 image: "/images/cover-pigeonetics.png"
 categories: [Biology, Genetics]

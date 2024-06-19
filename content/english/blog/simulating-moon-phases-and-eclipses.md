@@ -1,5 +1,5 @@
 ---
-title: "Simulating Moon Phases and Eclipses"
+title: "Simulating Moon Phases and Eclipses | Hands-On Activity"
 date: 2021-04-02T00:00:00-00:00
 tags: [Activities, Interactive, Labs, Physics]
 image: "/images/cover-moon.jpg"
