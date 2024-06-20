@@ -36,15 +36,18 @@
               </li>
             {{ end }}
             <li class="mr-4 inline-block">
-              <!-- <i class="fa-regular fa-clock mr-2"></i> -->
-              {{ time.Format ":date_long" .PublishDate }}  -
+              <i class="fa-regular fa-clock mr-2"></i>
+              {{ time.Format ":date_long" .PublishDate }}
+            </li>
+            <li class="mr-4 inline-block">
+              <i class="fa-regular fa-book-open mr-2"></i>
               {{ if eq .ReadingTime 1 }}
-                one minute read -
+                1 minute read -
               {{ else }}
                 {{ .ReadingTime }} minutes read -
               {{ end }}
               {{ if eq .WordCount 1 }}
-                one word
+                1 word
               {{ else }}
                 {{ .WordCount }} words
               {{ end }}
