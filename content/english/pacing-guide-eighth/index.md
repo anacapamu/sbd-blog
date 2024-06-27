@@ -58,7 +58,7 @@ This is based on California's [Grade 8 Integrated Science Storyline](https://ngs
 
 **Week 6:** Design Your Own Animal, [Is It Natural Selection?](/blog/is-it-natural-selection)
 
-**Weeks 7-8:** Fish or Mammals (Evidence of Evolution), [NOVA Evolution Lab](/blog/nova-evolution-lab)
+**Weeks 7-8:** Fish or Mammals (Evidence of Evolution), [Pigeonetics](/blog/pigeonetics), [NOVA Evolution Lab](/blog/nova-evolution-lab)
 
 **Weeks 9-10:** DNA Transcription and Translation, Gattaca (Movie)
 

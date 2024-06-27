@@ -70,7 +70,7 @@ This is based on California's [Grades 9-12 The Living Earth Storyline](https://n
 
 **Week 3:** [Introduction to Pedigrees Packet](/blog/intro-to-pedigrees-packet), Crime Mystery Lab
 
-**Week 4:** [NOVA Evolution Lab](/blog/nova-evolution-lab)
+**Week 4:** [Pigeonetics](/blog/pigeonetics), [NOVA Evolution Lab](/blog/nova-evolution-lab)
 
 **Week 5:** "Making Babies" Activity, Genetic Disorders Project
 
