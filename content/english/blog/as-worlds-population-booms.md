@@ -19,6 +19,8 @@ Article, worksheets
 
 - [Nat Geo Article, Worksheet, and Answer Key | Available on TpT](https://www.teacherspayteachers.com/Product/As-Worlds-Population-Booms-Will-Its-Resources-Be-Enough-Article-Sub-Plan-5814952)
 
+- [Teacher's Guide](/downloads/as-worlds-population-booms-teachers-guide.pdf)
+
 - [As World’s Population Booms, Will Its Resources Be Enough for Us? | Nat Geo](https://www.nationalgeographic.com/news/2014/9/140920-population-11billion-demographics-anthropocene/)
 
 ## Pacing
