@@ -1,5 +1,5 @@
 ---
-title: "NOVA: What's Living in You?"
+title: "NOVA: What's Living in You? | Video Notes"
 date: 2024-10-05T22:03:29-07:00
 image: "/images/cover-nova-whats-living-in-you.png"
 categories: [Biology, Microbiome]
@@ -13,7 +13,7 @@ As part of our Microbiome unit, this NOVA video does a great job at exploring th
 
 ## Materials
 
-- [Optional Video Notes, Credit: K. Bradylong](https://bradylong.weebly.com/uploads/2/6/6/7/26671985/video_guide_nova_wonderswhatslivinginyou.pdf)
+- [Optional Video Notes, Credit: K. Bradylong](/downloads/nova-whats-living-in-you-video-notes.pdf)
 
 ## Resources
 
